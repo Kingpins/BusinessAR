@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="AmexAd" size="10.000000 10.000000" />
+    <ImageTarget name="salear" size="10.000000 12.934580" />
+    <ImageTarget name="AmexFormHelp" size="10.000000 13.361702" />
+    <ImageTarget name="ContactForm" size="5.000000 3.747967" />
+    <ImageTarget name="AmexOcean" size="5.000000 5.712963" />
+    <ImageTarget name="AmexTravel" size="5.000000 2.500000" />
+    <ImageTarget name="AmexWelcomeCard" size="5.000000 3.333333" />
+    <ImageTarget name="AmexFood" size="5.000000 5.000000" />
+    <ImageTarget name="AmexFlipkart" size="5.000000 5.000000" />
+    <ImageTarget name="AmexCard" size="5.000000 3.166667" />
+    <ImageTarget name="Tanishq" size="5.000000 5.000000" />
+    <ImageTarget name="AmexCard3" size="5.000000 1.980983" />
+    <ImageTarget name="PlatinumCard" size="5.000000 3.333333" />
+    <ImageTarget name="AmexCard2" size="10.000000 6.659729" />
+    <ImageTarget name="AmexCard1" size="4.000000 4.000000" />
+    <ImageTarget name="amexlogo" size="4.000000 2.471508" />
+  </Tracking>
+</QCARConfig>
