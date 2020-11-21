@@ -1,4 +1,4 @@
-# BusinessAR 
+# Business AR 
 ### A smarter way of promoting products using AR technology <br/>
 <p>Marketing, Promoting and Advertising is one of the major concerns for any company
 in the real world, a company always wanted to showcase 
